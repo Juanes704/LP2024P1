@@ -32,7 +32,7 @@ public class Human extends LivingBeings implements EarthBein, SkyBeing {
 
     @Override
     public void changeDimension() {
-        System.out.println("El humano cambio de dimencion salio de latam");
+        System.out.println("El humano cambio de dimension salio de latam");
     }
 
     @Override
