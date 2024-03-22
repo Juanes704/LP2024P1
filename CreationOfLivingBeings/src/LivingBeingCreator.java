@@ -22,6 +22,6 @@ public class LivingBeingCreator implements Creator {
 
     @Override
     public String toString() {
-        return "LivingBeingCreator{No funciona}";
+        return "LivingBeingCreator{Y se hizo la vida}";
     }
 }
